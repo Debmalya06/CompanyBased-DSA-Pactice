@@ -1,0 +1,2 @@
+public class Cognizant6 {
+}
