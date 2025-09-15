@@ -1,4 +1,4 @@
-public class Capgimini5_26 {
+public class Capgimini_5_26 {
     public static void main(String[] args) {
         String s= "aaacccccbbd";
         int count=1,max=1; char c=' ';
