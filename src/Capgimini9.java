@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Capgimini5 {
+public class Capgimini9 {
     public static void main(String[] args) {
         String s ="##Move##Hash#To#Front";
         StringBuilder sb = new StringBuilder(s);
