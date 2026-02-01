@@ -1,3 +1,10 @@
+//Example 1
+//Input
+//N = 7
+//arr = [1, 0, 2, 0, 1, 0, 2]
+//Output
+//0 0 0 1 1 2 2
+
 public class deloitte5 {
     public static void main(String[] args) {
         int [] arr= {2,1,0,2,1,0,0,1,2,0};
