@@ -1,3 +1,7 @@
+//Given an array of integers, move all the zeros to the end of the array while maintaining the relative order of
+// the non-zero elements.
+//I/P: n = 7 arr = [1, 0, 3, 0, 5, 0, 7]
+//o/p: 1 3 5 7 0 0 0
 import java.util.Scanner;
 
 public class deloitte1 {
