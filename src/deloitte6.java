@@ -15,6 +15,7 @@ public class deloitte6 {
         }
         if(rev==org) System.out.println("palimdrome");
         else System.out.println("not palimdrome");
+        //add new
     }
 
 
